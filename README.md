@@ -1,2 +1,2 @@
-# Lab-3-Web
-Javascript 1 lab task
+# Javascript
+Javascript 1st tutorial
